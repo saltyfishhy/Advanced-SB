@@ -3,7 +3,7 @@
 
 # Setup
 
-In order to get the plugin running on your server, you need to first install it using this link. Then, place the plugin in your /plugins folder for your server. Restart the server and it should be up and running!
+In order to get the plugin running on your server, you need to first install it using [this link](https://github.com/saltyfishhy/Advanced-SB/raw/master/out/artifacts/Advanced_SB_jar/Advanced%20SB.jar). Then, place the plugin in your /plugins folder for your server. Restart the server and it should be up and running!
 
 # Configuration
 
