@@ -1,0 +1,11 @@
+main: me.saltyfishhy.AdvancedSB.Main
+name: AdvancedSB
+version: 1.0.0
+author: saltyfishhy
+
+softdepend: [PlaceholderAPI]
+
+commands:
+  scoreboard:
+    aliases: [sb]
+    description: Lets a server admin edit the state of the scoreboard
